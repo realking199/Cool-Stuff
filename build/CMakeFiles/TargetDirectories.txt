@@ -1,3 +1,3 @@
-C:/Users/bbediako16460/Downloads/Cool Stuff/build/CMakeFiles/ChineseVirus.dir
-C:/Users/bbediako16460/Downloads/Cool Stuff/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/bbediako16460/Downloads/Cool Stuff/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/bbediako16460/Downloads/Totally Not a Chinese Virus/build/CMakeFiles/ChineseVirus.dir
+C:/Users/bbediako16460/Downloads/Totally Not a Chinese Virus/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/bbediako16460/Downloads/Totally Not a Chinese Virus/build/CMakeFiles/ZERO_CHECK.dir
