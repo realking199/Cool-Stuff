@@ -1,0 +1,48 @@
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Dependencies and package caches
+node_modules/
+vendor/
+.npm/
+.yarn/
+.pnpm-store/
+
+# Build and coverage output
+dist/
+build/
+out/
+coverage/
+.cache/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# OS-specific application files
+*.bak
+*.orig
