@@ -12,7 +12,5 @@ int main()
     std::cout << "All your computer is mine.";
     std::this_thread::sleep_for(3s);
     std::system("dir /s");
-    std::cout << "Goodbye";
-    std::this_thread::sleep_for(1s);
 
 }
